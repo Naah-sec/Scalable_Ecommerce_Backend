@@ -1,6 +1,6 @@
 
 # Scalable Ecommerce Frontend
-
+---first of all i don't know anything about this frontend shit it's copilot work i just needed it to see some results,it's ni scalable ni walo,just an interface to observe the backend resutls after chwi 9ol9a of using swagger,postman,curl...---
 This is a modern, beautiful frontend for the Django REST ecommerce backend, built with React, Vite, TypeScript, and Material-UI.
 
 ## Features
